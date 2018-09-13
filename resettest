@@ -2,3 +2,4 @@ new resettest
 modify resettest
 pull test2
 head modify
+workspace modify
