@@ -4,6 +4,5 @@ bug1fix
 new feature1
 bug2fix
 new feature2
-bug3
-
 bug3fix
+new feature3
