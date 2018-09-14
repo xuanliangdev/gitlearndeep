@@ -4,3 +4,4 @@ pull test2
 head modify
 workspace modify
 remote modify resettest
+head modify resettest
