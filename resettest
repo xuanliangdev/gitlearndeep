@@ -5,3 +5,4 @@ head modify
 workspace modify
 remote modify resettest
 head modify resettest
+remote modify2 resettest
