@@ -1,3 +1,4 @@
 bugfix
 remote new feature
 bug1
+new feature1
