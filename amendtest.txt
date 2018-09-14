@@ -1,2 +1,2 @@
-bug
+bugfix
 remote new feature
