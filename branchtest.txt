@@ -3,3 +3,4 @@ master modify
 conflic test branch modify
 
 mergetoolbranch modify
+branch modify
