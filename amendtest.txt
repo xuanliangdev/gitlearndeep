@@ -6,3 +6,4 @@ bug2fix
 new feature2
 bug3fix
 new feature3
+bug4
