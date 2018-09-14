@@ -1,2 +1,3 @@
 insert branchtest1
 master modify
+conflic test branch modify
