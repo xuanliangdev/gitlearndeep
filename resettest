@@ -9,4 +9,5 @@ remote modify2 resettest
 remote modify3 restetest
 remote modify4 resettest
 workspace modify2
+workspace modify3
 remote modify5 resettest
