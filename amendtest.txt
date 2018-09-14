@@ -9,5 +9,5 @@ new feature3
 bug4
 new f4
 bug4fix
-bug5
+bug5fix
 f5
