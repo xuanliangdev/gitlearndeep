@@ -4,3 +4,5 @@ conflic test branch modify
 master change
 mergetoolbranch modify
 branch modify2
+
+Master gui test
