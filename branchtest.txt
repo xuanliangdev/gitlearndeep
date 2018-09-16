@@ -1,0 +1,13 @@
+insert branchtest1
+master modify
+conflic test branch modify
+master change
+mergetoolbranch modify
+branch modify2
+
+guitext
+
+Master gui test
+
+mastetadd
+modify
